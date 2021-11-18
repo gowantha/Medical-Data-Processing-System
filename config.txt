@@ -1,0 +1,10 @@
+Dr Dakshitha,doctor1@medcenter.com,5f4dcc3b5aa765d61d8327deb882cf99,4
+Draco Malfoy,dracomalfoy@gmail.com,5f4dcc3b5aa765d61d8327deb882cf99,1
+Geeth,labtech@medcenter.com,9003d1df22eb4d3820015070385194c8,2
+Charuka Rathnayaka,pharma1@medcenter.com,827d043606ac6fb18e465b87ffa05e89,3
+Harry Potter,harrypotter@gmail.com,899b172c0a47c4139407bb89b8205436,1
+Luna Lovegood,lunalovegood@gmail.com,f8bf9e5b72e3d4e017d483787baa3d4b,1
+Rubeus Hagrid,rubeueshagrid@gmail.com,74b91298945992e3a5760e7885686e4a,1
+Ruchika Dilith,doctor2@gmail.com,74b91298945992e3a5760e7885686e4a,4
+Nuvindu Nirmana,labtech2@medcenter.com,b5997cee0d1ef3e5f3f6dc7a8b3ad7d7,2
+Mahesh Jayawardana,prama2@medcenter.com,fc695527ce186f3a87ac588d9cc8339d,3
